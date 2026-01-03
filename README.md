@@ -4,8 +4,18 @@ System zarządzania dokumentami dla Rex Concepts.
 
 ## 🚀 Demo
 
-- **Admin:** login `admin`, hasło `admin`
-- **User:** login `user`, hasło `user`
+- **Admin:** login `admin`, hasło `admin` - pełna edycja, dodawanie plików PDF
+- **User:** login `user`, hasło `user` - tylko przeglądanie
+
+## ✨ Funkcje
+
+- **System logowania** z dwoma poziomami uprawnień (admin/user)
+- **Upload plików PDF** (tylko admin)
+- **Podgląd PDF** wbudowany w aplikację
+- **Pobieranie dokumentów** 
+- **Persystencja danych** - zmiany zapisywane w localStorage
+- **Zarządzanie folderami** - tworzenie, edycja, usuwanie (admin)
+- **Wyszukiwarka** dokumentów
 
 ## 📦 Instalacja lokalna
 
